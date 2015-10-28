@@ -11,6 +11,7 @@ Django is a popular, full-featured Python framework. We're going to be learning 
 Concepts we will cover:
 
 1.	Models (and migration)
-2.	Views
-3.	URLs
-4.	Templates
+2.	Admin Interfaces
+3.	Views
+4.	URLs
+5.	Templates
